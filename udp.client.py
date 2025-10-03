@@ -1,7 +1,7 @@
 from socket import *
 
 # 1. Define server address and port
-serverName = 'apichan.ddns.net'
+serverName = 'IP_ADDRESS'  # Replace 'IP_ADDRESS' with the actual server IP
 serverPort = 12000
 # 2. Create the client ’s UDP socket
 # AF_INET means we are using IPv4
